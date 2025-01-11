@@ -1,4 +1,4 @@
-# Blockhouse Take-Home Assignment: Next.js Application with Django API Integration
+# Next.js Application with Django API Integration
 
 Github Link for the Assignment : [Here](https://github.com/Sweetdevil144/blockhouse_takehome)
 
